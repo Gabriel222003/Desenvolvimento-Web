@@ -11,10 +11,15 @@ Este repositório reúne os projetos que desenvolvi ao longo do curso de Desenvo
 
 # Projetos Desenvolvidos
 Aplicação Financeira – Um sistema simples para controle de despesas e receitas.
+
 Jogo "Mata Mosquito" – Um mini game divertido com lógica em JavaScript.
+
 Gerenciador de Tarefas – Uma aplicação para criar, listar e atualizar tarefas.
+
 Envio de E-mails – Sistema de envio de mensagens via API da Google.
+
 Consultas com MySQL – Aprendi a conectar e fazer operações com banco de dados relacional.
+
 E muitos outros projetos práticos que solidificaram meu aprendizado.
 
 # Objetivo
