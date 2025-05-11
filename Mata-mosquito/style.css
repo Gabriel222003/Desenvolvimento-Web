@@ -1,0 +1,48 @@
+html{
+    cursor: url(imagens/mata_mosca.png) 30 30, auto;
+}
+
+body{
+    background: url(imagens/bg.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.mosca1{
+    width:50px ;
+    height:50px ;
+}
+
+.mosca2{
+    width:70px ;
+    height:70px ;
+}
+
+.mosca3{
+    width:90px ;
+    height:90px ;
+}
+
+.gira{
+    transform: scaleX(-1);
+}
+
+.painel{
+    position: absolute;
+    width: 190px;
+    left: 0px;
+    padding: 10px;
+    bottom: 0px;
+    border-top: 1px solid white;
+    background-color: white;
+    opacity: 0.7;
+}
+
+.vidas{
+    float: left;
+}
+
+.tempo{
+    float: left;
+    font-size: 20px;
+    font-style: bold;
+}
